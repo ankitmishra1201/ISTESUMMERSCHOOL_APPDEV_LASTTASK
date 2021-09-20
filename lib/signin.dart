@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_insta_clone/authentication_service.dart';
+import 'authentication_service.dart';
 import 'package:provider/provider.dart';
 
 class SignInPage extends StatelessWidget {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_insta_clone/insta_list.dart';
+import 'insta_list.dart';
 
 class InstaBody extends StatelessWidget {
   @override

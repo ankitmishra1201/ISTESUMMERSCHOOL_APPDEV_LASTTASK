@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:flutter_insta_clone/insta_stories.dart';
+import 'insta_stories.dart';
 
 class InstaList extends StatefulWidget {
   @override
