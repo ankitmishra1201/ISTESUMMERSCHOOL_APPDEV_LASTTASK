@@ -40,14 +40,14 @@ class _InstaListState extends State<InstaList> {
                               image: new DecorationImage(
                                   fit: BoxFit.fill,
                                   image: new NetworkImage(
-                                      "https://pbs.twimg.com/profile_images/916384996092448768/PF1TSFOE_400x400.jpg")),
+                                      "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png")),
                             ),
                           ),
                           new SizedBox(
                             width: 10.0,
                           ),
                           new Text(
-                            "imthpk",
+                            "instagram_user",
                             style: TextStyle(fontWeight: FontWeight.bold),
                           )
                         ],
@@ -62,7 +62,7 @@ class _InstaListState extends State<InstaList> {
                 Flexible(
                   fit: FlexFit.loose,
                   child: new Image.network(
-                    "https://images.pexels.com/photos/672657/pexels-photo-672657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+                    "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
                     fit: BoxFit.cover,
                   ),
                 ),
@@ -104,7 +104,7 @@ class _InstaListState extends State<InstaList> {
                 Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 16.0),
                   child: Text(
-                    "Liked by pawankumar, pk and 528,331 others",
+                    "Liked by Ankit and 69 others",
                     style: TextStyle(fontWeight: FontWeight.bold),
                   ),
                 ),
@@ -121,7 +121,7 @@ class _InstaListState extends State<InstaList> {
                           image: new DecorationImage(
                               fit: BoxFit.fill,
                               image: new NetworkImage(
-                                  "https://pbs.twimg.com/profile_images/916384996092448768/PF1TSFOE_400x400.jpg")),
+                                  "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png")),
                         ),
                       ),
                       new SizedBox(
@@ -141,7 +141,7 @@ class _InstaListState extends State<InstaList> {
                 Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 16.0),
                   child:
-                      Text("1 Day Ago", style: TextStyle(color: Colors.grey)),
+                      Text("5 Day Ago", style: TextStyle(color: Colors.grey)),
                 )
               ],
             ),

@@ -34,7 +34,7 @@ class InstaStories extends StatelessWidget {
                     image: new DecorationImage(
                         fit: BoxFit.fill,
                         image: new NetworkImage(
-                            "https://pbs.twimg.com/profile_images/916384996092448768/PF1TSFOE_400x400.jpg")),
+                            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png")),
                   ),
                   margin: const EdgeInsets.symmetric(horizontal: 8.0),
                 ),
